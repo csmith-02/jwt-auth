@@ -13,6 +13,8 @@ I created this project to learn about and implement JWT or token-based authentic
 
 **Server:** Golang, GORM, Gin
 
+**Database**: PostgreSQL
+
 **External Libraries**: JWT, Bcrypt
 
 
